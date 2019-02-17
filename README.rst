@@ -1,7 +1,8 @@
 Python implementations of different probabilistic algorithms.
 
-Following books
-1. The Elements of Statistical Learning
-2. Pattern Recognition and Machine Learning
-3. Machine Learning: A Probabilistic Perspective
-4. Probabilistic Robotics
+Referred following books for the theory
+
+#. The Elements of Statistical Learning.
+#. Pattern Recognition and Machine Learning.
+#. Machine Learning: A Probabilistic Perspective.
+#. Probabilistic Robotics.

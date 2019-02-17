@@ -1,4 +1,4 @@
-Python implementations of different probabilistic algorithms.
+# Python Implementations of Probabilistic Algorithms.
 
 Referred following books for the theory
 
